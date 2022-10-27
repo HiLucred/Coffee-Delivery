@@ -4,18 +4,24 @@ Aplicação desenvolvida no módulo "Ignite" proposto pela RocketSeat.
 
 🛠️ Skils: TypeScript, React, Styled Components HTML, CSS
 
+<br>
 
 ## 📋 Clone o repositório
+~~~TypeScript
 $ git clone https://github.com/HiLucred/Coffee-Delivery-REACT
+~~~
 
 
 ## 🔧 Instale as dependências
+~~~TypeScript
 $ npm install
+~~~
+ 
 
- 
 ## ⚙️ Rode o projeto
+~~~TypeScript
 $ npm run dev
- 
+ ~~~
 
 ## ✨Resultado:
 ![image](https://user-images.githubusercontent.com/90939916/196004692-766dbc64-de19-4502-b07a-e01f835f3461.png)
